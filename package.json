@@ -1,0 +1,17 @@
+{
+  "name": "jsonstr",
+  "version": "0.0.0",
+  "description": "A simple json string formatter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Karlo Espiritu <karloespiritu@gmail.com> (http://karloespiritu.com/)",
+  "license": "MIT",
+  "engines": {
+    "node": ">=4.2.4"
+  },
+  "devDependencies": {
+    "tape": "^4.6.0"
+  }
+}
